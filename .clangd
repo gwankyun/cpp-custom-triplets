@@ -1,0 +1,2 @@
+CompileFlags:
+ Add: [-IC:\local\vcpkg\installed\x64-mingw-clang-static\include]
